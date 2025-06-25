@@ -1,0 +1,54 @@
+**OVERALL**
+n=232 FP=0.32 TP=0.23 FN=0.03 TN 0.42
+accuracy=0.65 precision=0.42 recall=0.88 f1=0.57
+run time: avg=0.83 median=0.22 max=13.29
+
+**accept**
+n=60 FP=0.00 TP=0.88 FN=0.12 TN 0.00
+accuracy=0.88 precision=1.00 recall=0.88 f1=0.94
+run time: avg=1.23 median=0.37 max=12.73
+
+**multiple**
+n=25 FP=0.04 TP=0.00 FN=0.00 TN 0.96
+accuracy=0.96 
+run time: avg=0.71 median=0.31 max=5.04
+
+**eyes-closed**
+n=12 FP=0.92 TP=0.00 FN=0.00 TN 0.08
+accuracy=0.08 
+run time: avg=1.31 median=0.14 max=13.29
+
+**art**
+n=26 FP=0.96 TP=0.00 FN=0.00 TN 0.04
+accuracy=0.04 
+run time: avg=0.87 median=0.30 max=10.12
+
+**non-human**
+n=26 FP=0.08 TP=0.00 FN=0.00 TN 0.92
+accuracy=0.92 
+run time: avg=0.83 median=0.34 max=6.42
+
+**blur**
+n=18 FP=0.50 TP=0.00 FN=0.00 TN 0.50
+accuracy=0.50 
+run time: avg=0.92 median=0.08 max=11.28
+
+**lighting**
+n=17 FP=0.29 TP=0.00 FN=0.00 TN 0.71
+accuracy=0.71 
+run time: avg=0.45 median=0.15 max=2.58
+
+**filter**
+n=18 FP=0.67 TP=0.00 FN=0.00 TN 0.33
+accuracy=0.33 
+run time: avg=0.18 median=0.11 max=1.02
+
+**rotation**
+n=15 FP=0.33 TP=0.00 FN=0.00 TN 0.67
+accuracy=0.67 
+run time: avg=0.64 median=0.27 max=4.40
+
+**obstruction**
+n=15 FP=0.27 TP=0.00 FN=0.00 TN 0.73
+accuracy=0.73 
+run time: avg=0.34 median=0.19 max=2.42
